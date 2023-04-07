@@ -321,7 +321,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="境外节目",Bloomberg TV
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外节目",TVBS-Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="境外节目",TVBS-Asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="境外节目",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -339,8 +339,6 @@ http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="境外节目",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外节目",香港卫视文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 tvg-id="6142" tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="境外节目",大愛二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="7229" tvg-name="唯心电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="境外节目",唯心電視
@@ -367,8 +365,6 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外节目",EdgeSport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外节目",CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外节目",InsightTV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外节目",Inwonder
