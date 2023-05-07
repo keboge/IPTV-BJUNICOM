@@ -174,7 +174,7 @@ http://192.168.50.1:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="其他节目",纯享超清
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="其他节目",4K超高清电影
-https://tv.fanmingming.com/api/v6.php?id=emdy4k_8000
+http://cntv.sbs/ipv6?id=emdy4k_8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他节目",淘电影
 http://192.168.50.1:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" tvg-name="CHC家庭电影" group-title="其他节目",CHC家庭电影
