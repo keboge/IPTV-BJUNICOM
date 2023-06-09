@@ -86,7 +86,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-202153516
 #rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="地方卫视",凤凰卫视香港台
-https://cntv.sbs/fs?id=fhhk
+#https://cntv.sbs/fs?id=fhhk
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方卫视",湖南卫视
 http://192.168.50.1:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
@@ -174,7 +174,7 @@ http://192.168.50.1:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="其他节目",纯享超清
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="其他节目",4K超高清电影
-https://cntv.sbs/v605?id=emdy4k_8000
+#https://cntv.sbs/v605?id=emdy4k_8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他节目",淘电影
 http://192.168.50.1:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" tvg-name="CHC家庭电影" group-title="其他节目",CHC家庭电影
