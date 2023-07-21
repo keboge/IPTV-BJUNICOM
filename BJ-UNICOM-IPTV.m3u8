@@ -197,9 +197,9 @@ http://gslbserv.itv.cmvideo.cn:80/1000000004000019624/index.m3u8?channel-id=yste
 #EXTINF:-1 tvg-id="" tvg-name="爱院线" tvg-logo="" group-title="其他节目",爱院线
 #http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="Hot欧美影院" tvg-logo="" group-title="其他节目",Hot欧美影院
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
+#http://gslbserv.itv.cmvideo.cn:80/2000000004000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="Hot亚洲影院" tvg-logo="" group-title="其他节目",Hot亚洲影院
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
+#http://gslbserv.itv.cmvideo.cn:80/2000000004000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-logo="" group-title="其他节目",NewTV超级电影
 http://gslbserv.itv.cmvideo.cn:80/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="NewTV动作电影" tvg-logo="" group-title="其他节目",NewTV动作电影
@@ -321,7 +321,7 @@ http://192.168.50.1:4022/rtp/239.3.1.86:4120
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GjICLWN.png" tvg-id="" tvg-name="" group-title="境外节目",BBC
 #http://orbyt.xyz:8080/ghozt/zzeEXeujGur9/63335
-https://epg.pw/stream/cd267e544a2e33854fdce6db3d8c0e758770e597a1bfc5962662739a92ef2535.ctv
+#https://epg.pw/stream/cd267e544a2e33854fdce6db3d8c0e758770e597a1bfc5962662739a92ef2535.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="6023" tvg-name="CNN" group-title="境外节目",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="境外节目",CBS News
