@@ -332,7 +332,7 @@ http://192.168.50.1:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4K-UHD",纯享超清
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="斗鱼4K影院" tvg-logo="" group-title="4K-UHD",斗鱼4K影院
-#http://159.75.85.63:35455/douyu/9249162
+http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="4K-UHD",4K超高清电影
 #https://cntv.sbs/v605?id=emdy4k_8000
 #EXTINF:-1 tvg-name="LoveNature" tvg-logo="https://live.fanmingming.com/tv/LOVENATURE.png" group-title="4K-UHD",LoveNature4K
